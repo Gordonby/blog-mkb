@@ -1,6 +1,6 @@
 +++
 date = "2022-03-30T19:41:01+05:30"
-title = "The decision tree"
+title = "Keyboard decision tree"
 draft = false
 showonlyimage = false
 weight = 1
