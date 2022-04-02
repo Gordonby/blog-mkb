@@ -16,35 +16,7 @@ Not as simple as buying one on features, brand or style - there's quite the seri
 
 There's so many different options, brands and standards with keyboards that having a structured approach to decisions is glossed over. The order in which you make these decisions and stick to them will really help you navigate the plethora of options.
 
-```mermaid
-graph TD
-    A{Are you wanting an American Layout?}
-    A -->|Yes, i want ANSI| G[ANSI]
-    A -->|No | I[ISO Layout]
-    A -->|Not sure | C
-    C{Do you want a big enter key or a thin enter key}
-    C -->|Thin| G
-    C -->|Big| I
-    I --> L
-    G --> L
-
-    L{Do you want a NumPad}
-    L -->|Yes, | M[Full Size board - 100%]
-    L -->|No | N[What about the function row ]
-
-    N{What about the Function Row, want it?}
-    N -->|Yes - need those keys | O[TKL - 80%]
-    N -->|No - i can live without | P
-
-    P{What about the cursor arrows?}
-    P -->|Get rid | Q
-    P -->|I need those | R[75%]
-
-    Q{What about the number row}
-    Q -->|I need | S[65%]
-    Q -->|Bin it!| T[60%]
-
-```
+![decision tree](/img/portfolio/decisiontree.jpg)
 
 ### Layout : ANSI or ISO
 
@@ -165,3 +137,35 @@ Disassembling switches and lubing seems to be the done thing to reduce a scratch
 So here's where i ended up. I think i was lucky in picking a good base 😉
 
 > ISO > TKL > Red switches > Hot-swap > OEM and MA keycaps with UK ISO keys
+
+## Decision tree - mermaid
+
+```mermaid
+graph TD
+    A{Are you wanting an American Layout?}
+    A -->|Yes, i want ANSI| G[ANSI]
+    A -->|No | I[ISO Layout]
+    A -->|Not sure | C
+    C{Do you want a big enter key or a thin enter key}
+    C -->|Thin| G
+    C -->|Big| I
+    I --> L
+    G --> L
+
+    L{Do you want a NumPad}
+    L -->|Yes, | M[Full Size board - 100%]
+    L -->|No | N[What about the function row ]
+
+    N{What about the Function Row, want it?}
+    N -->|Yes - need those keys | O[TKL - 80%]
+    N -->|No - i can live without | P
+
+    P{What about the cursor arrows?}
+    P -->|Get rid | Q
+    P -->|I need those | R[75%]
+
+    Q{What about the number row}
+    Q -->|I need | S[65%]
+    Q -->|Bin it!| T[60%]
+
+```
