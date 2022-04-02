@@ -54,9 +54,6 @@ enableEmoji = true
   url = "about/"
 
   [params.social]
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
+  twitter       = "https://twitter.com/gordonbyers"
   linkedin      = "https://www.linkedin.com/in/gordonbyers/"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
+  github        = "https://github.com/Gordonby"
