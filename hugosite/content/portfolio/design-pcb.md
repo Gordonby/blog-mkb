@@ -14,4 +14,8 @@ The ultimate mastery of the mkb world is designing your own PCB.
 
 ## Software
 
+https://www.kicad.org/
+
+## Screengrabs
+
 ![/img/portfolio/pcbdesign.png](/img/portfolio/pcbdesign.png)
