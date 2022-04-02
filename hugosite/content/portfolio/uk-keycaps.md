@@ -7,9 +7,11 @@ title = "UK Keycaps"
 weight = 0
 +++
 
+It can be a struggle to find good UK ISO keycaps...
+<!--more-->
 Getting keycaps for an ANSI board is really easy. There's a lot of options available.
 With ISO boards however, the choice really narrows and half decent options end up costing a fortune.
-<!--more-->
+
 Here's my round up of my favourite UK keycap sets, which hopefully will prove useful if you're in the UK looking for a new set 🙂.
 
 Profile | Keycap set | Ansi | Iso | UK "£" keycap | Genuine / Clone | Store | Price

@@ -1,13 +1,13 @@
 +++
 draft = false
 image = "img/portfolio/switch.png"
-showonlyimage = true
+showonlyimage = false
 date = "2016-11-05T20:22:08+05:30"
 title = "Switches"
 weight = 10
 +++
 
-Not sure what switches are all about? What do the colours mean? Have a look...
+The world of mechanical keeb switches.
 <!--more-->
 
 Most keyboards come with a choice of 3 switches, red, browns and blues. These colours are based on the Cherry switches, and when you're buying a different brand they usually respect these colours as well as introducing their own additional colour choices.

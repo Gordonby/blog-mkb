@@ -10,7 +10,7 @@ Choosing your first mechanical keyboard can be tricky. ISO or ANSI, RED or BROWN
 Skip the n00b mistakes and ride the decision tree here.
 <!--more-->
 
-## The decision tree
+## Keyboard decision tree
 
 Not as simple as buying one on features, brand or style - there's quite the series of decisions to make that will narrow the selection dramatically.
 
