@@ -11,22 +11,28 @@ Keycaps are expensive! (but renders are cheap!)
 If you want to be creative and design your own keycaps then you`ll want to read this.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+## Initial design
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Mock up the layout, colourways, sizing and positions in [http://www.keyboard-layout-editor.com/](http://www.keyboard-layout-editor.com/)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+## First render
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Use KLE render to get a good first render of the board https://kle-render.herokuapp.com/
 
-## Header Level 2
+## Advanced rendering
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Watch [https://www.youtube.com/watch?v=PtAHb60JvfY&t=0s](https://www.youtube.com/watch?v=PtAHb60JvfY&t=0s) then download [https://www.blender.org/](https://www.blender.org/)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+You can convert your KLE json to a blender file with an AddOn : https://github.com/Kirpal/Keyboard-Layout-Editor-for-Blender
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+You will need to add/move/angle light sources and cameras to your scene in Blender, so prepare yourself for a learning curve.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+## Graphic customisation
+
+Download [Inkscape (it's free)](https://inkscape.org/release)
+
+Watch this https://www.youtube.com/watch?v=48Xshf2PbjM
+
+## Other resources
+
+[Design overview : Easy Beginner Guide](https://www.youtube.com/watch?v=vV7N2aOsXHA)

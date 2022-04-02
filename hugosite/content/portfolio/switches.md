@@ -7,25 +7,46 @@ title = "Switches"
 weight = 10
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Not sure what switches are all about? What do the colours mean? Have a look...
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Most keyboards come with a choice of 3 switches, red, browns and blues. These colours are based on the Cherry switches, and when you're buying a different brand they usually respect these colours as well as introducing their own additional colour choices.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+## Blues are clicky
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+Blue switches have a metal part inside the switches that is designed to make a deliberate clicking noise. This may sound satisfying, and there is some novelty there about a noisy keyboard... however they're too obtuse. They'll annoy anyone you share a working space with, as well as reducing your ability to stealthily make notes when on a work meeting. I also found them just to be generally annoying after some time.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+I do have some clicky switches in my board, but just in the function row and for the novelty. They don't get pressed often, and i can use them to remind myself why i don't want clicky switches in the main part of the board.
 
-## Header Level 2
+## Tactiles and Linear
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+The two other stock colours that most boards come with are brown and red. These are tactile and linear respectfully.
+Linear switches are simple to describe. Imagine the spring inside the switch, all you're doing is compressing the spring whilst pushing the key. The force required to push increases constantly and consistently in a linear fashion.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Tactile switches on the other hand don't exhibit the same pressure characteristics. They have a plastic bump during the keypress where the required pressure peaks, after this point it becomes very easy to fully depress the switch.
+I'm not the biggest fan of tactiles as the feeling is still a little foreign to me, i am currently using the [C³EQUALZ X Tkc kiwi switches](https://thekey.company/collections/accessories/products/c3-equalz-x-tkc-kiwi-switches).
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+## Reds are too light!
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+### Spring replacements
+
+In any switch you can open it and change the spring component. This can be helpful if you want to fine tune your preferences at the most granular level.
+For linear switches however, it's a cost effective way of turning your lightly sprung Red switches into Yellow's or Blacks.
+
+My keyboard came with Gateron red switches, almost all of which have been removed from the board. Therefore i can buy new springs to make them useful rather than just languishing in a bag somewhere. Opening a switch requires a special tool, but replacing the spring is easy.
+
+## Lubing and Filming
+
+Most switches come with very little plastic lubricant on the moving parts inside a switch. Lubricant on these parts makes the switch press feel smoother and less scratchy.
+
+"Bag lubing" seems to be a simple technique for doing this job quickly. The most popular lube seems to be Krytox 205 grade 0.
+
+"Filming" a switch involves putting a small plastic/rubber gasket between the upper and lower switch bodies. It reduces wobble in the switch housing, as you can see [here](https://www.youtube.com/watch?v=ndT_TTQLflI).
+
+## Switch testers
+
+I don't think that switch testers are particularly helpful, you need an extended period of time using the switches before you're able to decide on your preference.
+
+## Go hybrid
+
+Almost all of the keyboard Youtubers show a keyboard with all 1 type of switch. Personally i don't like that concept. Pressing shift/space/enter with the feel of a slightly heavier switch is actually quite pleasing.

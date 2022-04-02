@@ -7,5 +7,13 @@ title = "Iso Gamer"
 weight = 0
 +++
 
-IsoGamer
+PiPi Gherkin is a board design from the 40percent club
 <!--more-->
+
+## Board Specs
+
+todo
+
+## Builld Guide
+
+todo

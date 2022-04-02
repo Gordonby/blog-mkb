@@ -10,22 +10,46 @@ weight = 8
 Create configurable layouts with the Quantum Mechanical Keyboard project
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+[Quantum Mechanical Keyboard (QMK)](https://github.com/qmk) lets you remap the keys on the board. Super helpful if you're running a non ANSI layout, or if you just want to customise.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+## Using QMK - Walkthrough
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+### Prerequisites
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+You'll need to download the latest [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest) to apply the firmware to your board.
 
-## Header Level 2
+### Process Overview
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Here's the process to change your keyboard key map
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+1. Select base layout on [https://config.qmk.fm/](https://config.qmk.fm/)
+1. Customise the key mappings to suit you
+1. Download Keymap (for future tweaks you might want to do to the keymap, my one is here)
+1. Compile the firmware
+1. Download the firmware
+1. Load the firmware in the [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest)
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+## QMK Walk-through
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+### Testing the board
+
+The first thing to do when the board arrives is to plug it in and test that each of the switches would work when you assemble it. It's easiest to do this with a pair of metal tweezers and using a Keyboard testing site like [https://stendec.io/yakt/](https://stendec.io/yakt/).
+
+### Creating the keymap
+
+The site where you can create your Keymap is [QMK.fm](https://config.qmk.fm), you can start from scratch or use on of the keymaps from the library as a staring point.
+
+After creating a Keymap config, compile then download the firmware file, ready for flashing.
+
+### Flashing the board
+
+Start by plugging in they keyboard, and making sure the prompts to install the drivers happen successfully.
+
+Open the [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest) app and load in the Firmware file. Click auto-flash and then on your board, press the reset button.
+
+## Running QMK locally
+
+```bash
+docker run -p 5001:5001 qmkfm/qmk_api:latest
+docker run -e VITE_API_URL=http://localhost:8080 -p 8080:80 qmkfm/qmk_configurator:latest
+```
