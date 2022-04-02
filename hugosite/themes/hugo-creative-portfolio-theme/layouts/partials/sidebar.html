@@ -12,7 +12,7 @@
     {{ partial "social_buttons_in_sidebar.html" . }}
 
     <div class="copyright">
-      <p class="credit">
+      <p class="credit" style="display: none;">
         {{ with .Site.Params.copyright }}
           {{ . | safeHTML }} |
         {{ end }}
