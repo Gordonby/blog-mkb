@@ -12,4 +12,4 @@ What a render, with blender.
 
 Just a little bit of fun, using Blender to create a Microsoft themed keycap render for the Gherkin.
 
-![img/portfolio/msftGherkinSide.png](img/portfolio/msftGherkinSide.png)
+![/img/portfolio/msftGherkinSide.png](/img/portfolio/msftGherkinSide.png)
