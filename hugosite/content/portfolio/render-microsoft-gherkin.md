@@ -2,7 +2,7 @@
 image = "img/portfolio/msftGherkinSide.png"
 showonlyimage = true
 draft = false
-date = "2022-04-02T19:53:42+05:30"
+date = "2022-03-30T19:53:42+05:30"
 title = "The Microsoft Gherkin"
 weight = 5
 +++

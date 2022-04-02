@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/PikateaFK1.png"
 showonlyimage = false
-date = "2022-04-02T20:02:19+05:30"
+date = "2022-03-30T20:02:19+05:30"
 title = "Pikatea macropad"
 weight = 9
 +++

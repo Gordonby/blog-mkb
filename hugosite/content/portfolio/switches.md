@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/switch.png"
 showonlyimage = false
-date = "2022-04-02T20:22:08+05:30"
+date = "2022-03-30T20:22:08+05:30"
 title = "Switches"
 weight = 10
 +++

@@ -1,7 +1,7 @@
 +++
 image = "img/portfolio/xd64.jpg"
 showonlyimage = false
-date = "2022-04-02T19:44:32+05:30"
+date = "2022-03-30T19:44:32+05:30"
 title = "XD64 Kit"
 draft = false
 weight = 2
