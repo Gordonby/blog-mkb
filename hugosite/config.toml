@@ -17,7 +17,8 @@ enableEmoji = true
   copyright = ""
   sidebarAbout = [
     "A blog on my various Keyboard and electronics projects.",
-    "I spend my day-job with software, so this is a nice small hobby 🙂"
+    "I spend my day-job with software, so this is a nice small hobby 🙂",
+    "This blog is a bit of a work-in-progress at the moment, whilst i collate all the repos, blogs and assets from other places"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
