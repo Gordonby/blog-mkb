@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "img/portfolio/pcbdesign.png"
-date = "2016-11-05T18:25:22+05:30"
+date = "2022-04-02T18:25:22+05:30"
 title = "Design your own PCB"
 weight = 0
 +++

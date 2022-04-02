@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/scoobycaps.png"
 showonlyimage = true
-date = "2016-11-05T20:23:59+05:30"
+date = "2022-04-02T20:23:59+05:30"
 title = "ScoobyCaps"
 weight = 8
 +++

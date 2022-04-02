@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = true
 image = "img/portfolio/a4-paper.jpg"
-date = "2016-11-05T18:25:22+05:30"
+date = "2022-04-02T18:25:22+05:30"
 title = "Iso Gamer"
 weight = 0
 +++
