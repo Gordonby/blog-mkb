@@ -18,7 +18,7 @@ enableEmoji = true
   sidebarAbout = [
     "A blog on my various Keyboard and electronics projects.",
     "I spend my day-job with software, so this is a nice small hobby 🙂",
-    "This blog is a bit of a work-in-progress at the moment, whilst i collate all the repos, blogs and assets from other places"
+    "This blog is a bit of a work-in-progress at the moment, whilst i collate all my repos, blogs and assets from other places"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -45,13 +45,17 @@ enableEmoji = true
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Mech Keyboard blog"
-  url = "portfolio/"
+  name = "Mech Keyboards"
+  url = "/mkb"
   home = true
 
   [[params.navlinks]]
+  name = "Electronics"
+  url = "/electronics"
+
+  [[params.extlinks]]
   name = "Azure/Tech Code Blog"
-  url = "https//gordon.byers.me"
+  url = "https://gordon.byers.me"
 
   [params.social]
   twitter       = "https://twitter.com/gordonbyers"

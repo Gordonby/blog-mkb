@@ -6,8 +6,14 @@
     {{ end }}
     <ul class="sidebar-menu">
       {{ range .Site.Params.navlinks }}
-        <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
+          <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
       {{ end }}
+      {{ if .Site.Params.extlinks  }}
+        <hr />
+      {{ end }}
+      {{ range .Site.Params.extlinks }}
+        <li><a href="{{ .url }}" target="_blank">{{ .name }}</a></li>
+    {{ end }}
     </ul>
     {{ partial "social_buttons_in_sidebar.html" . }}
 

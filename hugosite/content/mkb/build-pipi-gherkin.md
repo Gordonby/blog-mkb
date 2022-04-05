@@ -14,6 +14,6 @@ PiPi Gherkin is a board design from the 40percent club
 
 todo
 
-## Builld Guide
+## Build Guide
 
 todo
