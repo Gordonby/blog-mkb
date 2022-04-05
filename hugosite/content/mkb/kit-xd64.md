@@ -7,7 +7,7 @@ draft = false
 weight = 2
 +++
 
-A build guide for the XD64, which is a GH10 based PCB. A very versatile 65% keyboard kit.
+A build guide for the XD64, which is a GH60 based PCB. A very versatile 65% keyboard kit.
 <!--more-->
 
 The [XD64 is sold by KP Republic](https://kprepublic.com/collections/xd64-60), is a 60% (ish) QMK-programmable GH60 based keyboard kit (the GH60 was a popular open source keyboard build project in the early-mid 2010's). The XD64 fits in the GH60 keyboard cases, comes with USB-C pre-soldered and ready to plug in to the laptop (upgraded from mini USB in the GH60), it has RGB under-glow and pins available for per-key LEDs. The PCB itself is super flexible when it comes to supported layouts.
